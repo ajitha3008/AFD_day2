@@ -1,12 +1,12 @@
 # Pre requisites:
-Python
-pip - command line tool for python
+1) Python
+2) 2) pip - command line tool for python
 
 # To install necessary libraries:
-pip3 install torch
-pip3 install transformers
+1) pip3 install torch
+2) pip3 install transformers
 
-Note: Please disconnect from any VPN connections before running the program
+Note: Please disconnect from any VPN connections before running the program. Executing the program for first time might take lot of time. But subsequent execution will be quick.  
 
 # Intent:
 In this activity, you’ll summarize a big paragraph into a smaller one
